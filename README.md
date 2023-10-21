@@ -1,7 +1,8 @@
 # Voron7.9-Display350
 Voron 350 HDMI Display Waveshare 7.9Widescreen.
-This Waveshare display conveniently fits inside the front skirt of a Voron 350 machine using Voron 259 Front skirts.
-There is no need to cantilever this display since it sits below the door panels.
+![image](https://github.com/robermeyer/Voron7.9-Display350/assets/7516894/59204c27-46af-43dc-86ec-1074682012bb)
+The Waveshare display conveniently fits inside the front skirts of a Voron 350 machine using Voron 250 Front skirts.
+There is no need to cantilever this display since it sits below the door panels and even with the structure its sitting on.
 The front CAD view.
 ![image](https://github.com/robermeyer/Voron7.9-Display350/assets/7516894/d204d2b0-6c87-41ed-a838-005617079ab0)
 The rear view
