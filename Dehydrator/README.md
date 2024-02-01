@@ -1,4 +1,5 @@
-Filament dehydrator made from a Hamilton Beach Unit.
+Filament dehydrator made from a Hamilton Beach Unit.Simple stack the replacement Trays with filament supports and dry the filament
+Supports filament exits out back.
 Supports 3 spools with Temp and Humidity Sensor
 
 ![image](https://github.com/robermeyer/VoronMods/assets/7516894/8d63be27-6ecf-4d69-9954-49731303f4c5)
