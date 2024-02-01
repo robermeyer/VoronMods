@@ -8,6 +8,8 @@ https://www.amazon.com/gp/product/B012CG8N26/ref=ppx_yo_dt_b_search_asin_title?i
 
 ![image](https://github.com/robermeyer/VoronMods/assets/7516894/4fcb4b9c-3bbd-42f2-96d8-3bf7ef6f1d03)
 
+About this item
+
 Material	Plastic
 
 Color	Gray
@@ -15,8 +17,6 @@ Color	Gray
 Wattage	500 watts
 
 Product Dimensions	10.5"D x 13"W x 11"H
-
-About this item
 
 48 hour timer with auto shutoff and clear lid so you can easily check filament
 
