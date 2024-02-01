@@ -14,13 +14,13 @@ Product Dimensions	10.5"D x 13"W x 11"H
 
 About this item
 
-48 hour timer with auto shutoff and clear lid so you can easily check food
+48 hour timer with auto shutoff and clear lid so you can easily check filament
 
 Adjustable digital thermostat lets you adjust drying temperature (100-160° F)
 
 Continuous airflow provides even drying
 
-Five stackable drying trays and powerful 500 watts
+Powerful 500 watts
 
 https://www.amazon.com/dp/B0C74T4JH1?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
