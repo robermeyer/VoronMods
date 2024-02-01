@@ -2,6 +2,8 @@ Filament dehydrator made from a Hamilton Beach Unit.
 Supports 3 spools with Temp and Humidity Sensor
 https://www.amazon.com/gp/product/B012CG8N26/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
+![image](https://github.com/robermeyer/VoronMods/assets/7516894/4fcb4b9c-3bbd-42f2-96d8-3bf7ef6f1d03)
+
 Material	Plastic
 
 Color	Gray
