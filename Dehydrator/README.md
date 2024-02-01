@@ -23,6 +23,7 @@ Five stackable drying trays and powerful 500 watts
 https://www.amazon.com/dp/B0C74T4JH1?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 Round Thermistor and Humidity Sensor
+
 ![image](https://github.com/robermeyer/VoronMods/assets/7516894/acc478fe-b2e7-4fef-900a-abd32133c844)
 
 3 Different Spools sizes. 32, 53 and 72mm Centers. Max width 85mm for those big filaments.
