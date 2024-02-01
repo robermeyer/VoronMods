@@ -1,3 +1,4 @@
+# Filament Dehydrator using a food dryer
 Filament dehydrator made from a Hamilton Beach Unit.Simple stack the replacement Trays with filament supports and dry the filament
 Supports filament exits out back.
 Supports 3 spools with Temp and Humidity Sensor
